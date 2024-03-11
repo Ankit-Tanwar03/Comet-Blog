@@ -1,7 +1,7 @@
-import Header from "./Header/Header";
-import Footer from "./Footer/Footer";   
+import Signup from "./Signup";
+import Login from "./Login";
 
-export default{
-    Header,
-    Footer
+export {
+    Signup,
+    Login
 }
